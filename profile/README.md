@@ -1,0 +1,51 @@
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/DiscordKronBot/.github/main/assets/kron-banner.svg" alt="Kron" width="100%" />
+
+**Modular Discord bot with a full web dashboard. Built for FiveM & RP servers, great for any community.**
+
+[![Website](https://img.shields.io/badge/kronbot.xyz-D97757?style=for-the-badge&logo=googlechrome&logoColor=white)](https://kronbot.xyz)
+[![Add to Discord](https://img.shields.io/badge/Add%20to%20Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://kronbot.xyz/invite)
+[![Support](https://img.shields.io/badge/Support%20server-262624?style=for-the-badge&logo=discord&logoColor=white)](https://kronbot.xyz/support)
+[![Docs](https://img.shields.io/badge/Docs-30302E?style=for-the-badge&logo=readthedocs&logoColor=white)](https://kronbot.xyz/docs)
+[![Status](https://img.shields.io/badge/Status-22C55E?style=for-the-badge&logo=statuspage&logoColor=white)](https://kronbot.xyz/status)
+
+</div>
+
+---
+
+### ✨ What Kron does
+
+| | |
+|---|---|
+| 🎫 **Tickets** | Button or menu panels, questions before opening (text or dropdowns), naming rules, web transcripts, auto-close |
+| 📝 **Forms & whitelist** | Web forms with a role pipeline and review buttons, ready-made templates |
+| 🛡️ **Safety** | Moderation, Discord AutoMod presets, anti-raid, honeypot trap channel, Carl-style logs |
+| 🎮 **Community** | Levels & economy, 11 games with bets, giveaways, birthdays, custom commands & tags |
+| 🏗️ **Server tools** | Channel builder with server packs, beautify names, channel counters, welcome cards |
+| 🔴 **Alerts** | Twitch, Kick and GitHub feeds posted as clean embeds |
+| 🚓 **FiveM** | In-game bridge: character profiles in tickets, unstuck, garage, `/report`, job channels |
+| 🏷️ **Whitelabel** | Run Kron under your own bot name and avatar |
+
+Everything is set up from the **[dashboard](https://kronbot.xyz/dashboard)**, in **English or French**. No commands to memorize.
+
+### 🧰 Free Discord tools
+
+ID decoder, timestamp generator, user and server lookup, emoji downloader, permission calculator and Unicode fonts: **[kronbot.xyz/tools](https://kronbot.xyz/tools)**.
+
+### 📦 Repositories
+
+| Repository | What's inside |
+|---|---|
+| [`kronbot_bridge`](https://github.com/DiscordKronBot/kronbot_bridge) | FiveM resource (QBCore / Qbox) that links your city to Kron. Outbound HTTPS only, no port to open. |
+| *more soon* | Scripts and plugins for other apps. |
+
+### 💎 Plans
+
+The essentials are **free forever**. **Pro** unlocks FiveM, live alerts, GitHub feeds and removes every limit, from **$2.08 / month** billed yearly. See **[kronbot.xyz/pro](https://kronbot.xyz/pro)**.
+
+<div align="center">
+
+<sub>Made in Québec 🇨🇦 · <a href="https://kronbot.xyz/legal/terms">Terms</a> · <a href="https://kronbot.xyz/legal/privacy">Privacy</a> · Kron is not affiliated with Discord Inc.</sub>
+
+</div>

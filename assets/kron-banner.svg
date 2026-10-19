@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 300" width="1200" height="300">
+  <defs>
+    <radialGradient id="glow" cx="85%" cy="15%" r="75%">
+      <stop offset="0" stop-color="#D97757" stop-opacity="0.35"/>
+      <stop offset="1" stop-color="#D97757" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+  <rect width="1200" height="300" rx="24" fill="#262624"/>
+  <rect width="1200" height="300" rx="24" fill="url(#glow)"/>
+  <g transform="translate(90 86) scale(4)">
+    <rect width="32" height="32" rx="9" fill="#D97757"/>
+    <path d="M11 8v16M21.5 8L12.5 16l9 8" fill="none" stroke="#fff" stroke-width="3.2" stroke-linecap="round" stroke-linejoin="round"/>
+    <circle cx="22" cy="16" r="2.2" fill="#fff"/>
+  </g>
+  <text x="250" y="160" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="92" font-weight="800" fill="#FAF9F5">kron</text>
+  <text x="254" y="208" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="28" fill="#A6A39A">The all-in-one Discord bot for FiveM &amp; RP communities</text>
+</svg>
