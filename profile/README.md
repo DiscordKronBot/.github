@@ -21,6 +21,8 @@
 | 🎫 **Tickets** | Button or menu panels, questions before opening (text or dropdowns), naming rules, web transcripts, auto-close |
 | 📝 **Forms & whitelist** | Web forms with a role pipeline and review buttons, ready-made templates |
 | 🛡️ **Safety** | Moderation, Discord AutoMod presets, anti-raid, honeypot trap channel, Carl-style logs |
+| 🧑‍⚖️ **Roles** | Role presets for staff without Manage Roles, owner-only role backups that repair a damaged server |
+| 📨 **Invites** | Who invited whom, join messages and a leaderboard |
 | 🎮 **Community** | Levels & economy, 11 games with bets, giveaways, birthdays, custom commands & tags |
 | 🏗️ **Server tools** | Channel builder with server packs, beautify names, channel counters, welcome cards |
 | 🔴 **Alerts** | Twitch, Kick and GitHub feeds posted as clean embeds |
@@ -38,7 +40,12 @@ ID decoder, timestamp generator, user and server lookup, emoji downloader, permi
 | Repository | What's inside |
 |---|---|
 | [`kronbot_bridge`](https://github.com/DiscordKronBot/kronbot_bridge) | FiveM resource (QBCore / Qbox) that links your city to Kron. Outbound HTTPS only, no port to open. |
+| [`kron-translations`](https://github.com/DiscordKronBot/kron-translations) | Every text of Kron, translated by the community on Crowdin. Earn Pro keys for approved translations. |
 | *more soon* | Scripts and plugins for other apps. |
+
+### 🗺️ Roadmap & ideas
+
+See what is done, what is next and what the community asks for on the **[Kron Roadmap](https://github.com/orgs/DiscordKronBot/projects/1)**. Got an idea? Post it in #suggestions on our **[Discord](https://kronbot.xyz/support)**.
 
 ### 💎 Plans
 
