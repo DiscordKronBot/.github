@@ -47,9 +47,26 @@ ID decoder, timestamp generator, user and server lookup, emoji downloader, permi
 
 See what is done, what is next and what the community asks for on the **[Kron Roadmap](https://github.com/orgs/DiscordKronBot/projects/1)**. Got an idea? Post it in #suggestions on our **[Discord](https://kronbot.xyz/support)**.
 
+### 🤝 Join the team
+
+Kron is growing and we are building a small team. Roles we are opening:
+
+| Role | What you do |
+|---|---|
+| 🙋 **Helper** | Answer members in support tickets and #bot-support |
+| 🔨 **Moderator** | Handle reports and keep the support server friendly |
+| 📣 **Community manager** | Announcements, events, social media |
+| 🎨 **Designer** | Website, dashboard, banners and emojis |
+| 🧩 **Module developer** | Build and improve Kron's modules (Node.js, discord.js, React) |
+| ⚡ **Performance** / 🔐 **Security** | Make Kron faster, safer and ready to scale |
+
+Interested? Open a ticket on our **[Discord](https://kronbot.xyz/support)** and tell us what you would like to do.
+
+**For developers:** you work on your own machine with your own test bot and a local database full of fake data (Docker), never on production. Branch from `dev`, open a pull request, automatic checks run on every pull request, and the owner reviews and ships. Team members find the full guide in `CONTRIBUTING.md` of the main repository.
+
 ### 💎 Plans
 
-The essentials are **free forever**. **Pro** unlocks FiveM, live alerts, GitHub feeds and removes every limit, from **$2.08 / month** billed yearly. See **[kronbot.xyz/pro](https://kronbot.xyz/pro)**.
+The essentials are **free forever**. **Pro** unlocks FiveM, live alerts, GitHub feeds and removes every limit, from **$3.99 / month**, or 2 servers for **$4.17 / month** billed yearly. See **[kronbot.xyz/pro](https://kronbot.xyz/pro)**.
 
 <div align="center">
 
